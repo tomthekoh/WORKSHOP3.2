@@ -2,4 +2,5 @@ Eggs
 Milk
 Juice
 Soup
-Veggies
+Celery
+Tomatoes
